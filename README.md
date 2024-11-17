@@ -27,8 +27,8 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/student-gpa-prediction.git
-cd student-gpa-prediction
+git clone https://github.com/AtharvTinkhede1010/Student-life-style.git
+cd Student-life-style
 Install the required packages:
 
 bash
